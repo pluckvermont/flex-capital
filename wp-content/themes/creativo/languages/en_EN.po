@@ -1,0 +1,2943 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Creativo 4.0\n"
+"POT-Creation-Date: 2016-05-30 12:26+0200\n"
+"PO-Revision-Date: 2016-05-30 12:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: RockyThemes <support@rockythemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid "404: Page Not Found"
+msgstr ""
+
+#: ../404.php:16
+msgid ""
+"Sorry, but the page you are looking for has not been found. Try Checking the "
+"URL for Errors, then hit the refresh button on your browser"
+msgstr ""
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:23
+msgid "Your thoughts here"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Trackbacks for this post"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#: ../comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:83
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:83
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:91
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: ../comments.php:98
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: ../comments.php:98
+msgid "Log out of this account"
+msgstr ""
+
+#: ../comments.php:103
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:103 ../comments.php:106
+msgid "*"
+msgstr ""
+
+#: ../comments.php:106
+msgid "Mail <span>(will not be published)</span>"
+msgstr ""
+
+#: ../comments.php:109 ../single-creativo_portfolio.php:158
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:117
+msgid "Submit Comment"
+msgstr ""
+
+#: ../functions.php:100
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:101 ../functions/metaboxes/header.php:80
+msgid "Side Navigation Menu"
+msgstr ""
+
+#: ../functions.php:102
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:103
+msgid "One Page Menu"
+msgstr ""
+
+#: ../functions.php:104
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:129
+msgid "GO"
+msgstr ""
+
+#: ../functions.php:152
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:161
+msgid "Off-Canvas Sidebar"
+msgstr ""
+
+#: ../functions.php:170
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: ../functions.php:179
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../functions.php:308
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:322
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: ../functions.php:326
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:327
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:523
+msgid "Search keywords here"
+msgstr ""
+
+#: ../functions.php:620
+#: ../functions/plugin/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:621
+#: ../functions/plugin/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:622
+#: ../functions/plugin/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:623
+#: ../functions/plugin/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:634
+#: ../functions/plugin/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:635
+#: ../functions/plugin/class-tgm-plugin-activation.php:399
+#: ../functions/plugin/class-tgm-plugin-activation.php:3060
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:636
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:662 ../functions.php:675 ../functions.php:688
+msgid "Featured image "
+msgstr ""
+
+#: ../functions.php:663 ../functions.php:676 ../functions.php:689
+msgid "Set featured image "
+msgstr ""
+
+#: ../functions.php:664 ../functions.php:677 ../functions.php:690
+msgid "Remove featured image "
+msgstr ""
+
+#: ../functions.php:665 ../functions.php:678 ../functions.php:691
+msgid "Use as featured image "
+msgstr ""
+
+#: ../index-style-default.php:56 ../index-style-default.php:86
+#: ../page-blog-grid.php:85 ../page-blog-small.php:118 ../page-blog.php:75
+#: ../content/post-share.php:11
+msgid "Continue Reading "
+msgstr ""
+
+#: ../index-style-grid.php:56 ../index-style-masonry.php:35
+#: ../page-blog-small-nosidebar.php:140
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: ../page-blog-grid.php:125 ../page-blog-masonry.php:70
+msgid "Read More &rarr;"
+msgstr ""
+
+#: ../page-blog-small-nosidebar.php:107 ../functions/custom_functions.php:369
+msgid "by "
+msgstr ""
+
+#: ../page.php:79 ../single.php:83
+msgid "Pages:"
+msgstr ""
+
+#: ../portfolio-four-column.php:18 ../portfolio-one-column.php:34
+#: ../portfolio-three-column.php:18 ../portfolio-two-column.php:18
+#: ../functions/shortcodes.php:2539 ../functions/shortcodes.php:2733
+msgid "All"
+msgstr ""
+
+#: ../portfolio-one-column.php:125 ../portfolio-one-column.php:130
+#: ../functions/shortcodes.php:751 ../functions/shortcodes.php:2832
+#: ../functions/shortcodes.php:2835
+msgid "View More"
+msgstr ""
+
+#: ../search.php:39
+msgid "No relevant search results found"
+msgstr ""
+
+#: ../search.php:41
+msgid "Try a different search query."
+msgstr ""
+
+#: ../searchform.php:4
+msgid "To search type and hit enter"
+msgstr ""
+
+#: ../single-creativo_portfolio.php:104
+#: ../functions/metaboxes/portfolio_details.php:5
+msgid "Client name"
+msgstr ""
+
+#: ../single-creativo_portfolio.php:122
+msgid "Skills"
+msgstr ""
+
+#: ../single-creativo_portfolio.php:140
+msgid "Category"
+msgstr ""
+
+#: ../single-creativo_portfolio.php:190 ../single.php:71
+msgid "Previous "
+msgstr ""
+
+#: ../single-creativo_portfolio.php:191 ../single.php:72
+msgid "Next"
+msgstr ""
+
+#: ../single-creativo_portfolio.php:202
+msgid "Related Projects"
+msgstr ""
+
+#: ../single.php:64
+msgid "Tags: "
+msgstr ""
+
+#: ../single.php:95
+msgid "Share this post: "
+msgstr ""
+
+#: ../single.php:106
+msgid "About the Author"
+msgstr ""
+
+#: ../single.php:126
+msgid "Related Posts"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:556
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:52
+#: ../admin/front-end/options.php:73
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:74
+msgid "Options Reset"
+msgstr ""
+
+#: ../functions/custom_functions.php:238
+msgid "404 - Page not Found"
+msgstr ""
+
+#: ../functions/custom_functions.php:239
+msgid "Search"
+msgstr ""
+
+#: ../functions/custom_functions.php:294
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../functions/custom_functions.php:298
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../functions/custom_functions.php:302
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: ../functions/custom_functions.php:306
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../functions/custom_functions.php:310
+msgid "Share on Reddit"
+msgstr ""
+
+#: ../functions/custom_functions.php:314
+msgid "Share on Tumblr"
+msgstr ""
+
+#: ../functions/custom_functions.php:318
+msgid "Share on Google+"
+msgstr ""
+
+#: ../functions/custom_functions.php:335
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../functions/custom_functions.php:381
+msgid "Comments: "
+msgstr ""
+
+#: ../functions/metaboxes.php:28 ../functions/metaboxes.php:35
+#: ../functions/metaboxes.php:44
+msgid "Header Options"
+msgstr ""
+
+#: ../functions/metaboxes.php:29 ../functions/metaboxes.php:36
+#: ../functions/metaboxes.php:45
+msgid "Page Title Section"
+msgstr ""
+
+#: ../functions/metaboxes.php:30 ../functions/metaboxes.php:46
+msgid "General Options"
+msgstr ""
+
+#: ../functions/metaboxes.php:31 ../functions/metaboxes.php:47
+msgid "Video Options"
+msgstr ""
+
+#: ../functions/metaboxes.php:32 ../functions/metaboxes.php:40
+#: ../functions/metaboxes.php:49
+msgid "Custom Styling"
+msgstr ""
+
+#: ../functions/metaboxes.php:33 ../functions/metaboxes.php:42
+#: ../functions/metaboxes.php:50
+msgid "Footer Options"
+msgstr ""
+
+#: ../functions/metaboxes.php:37
+msgid "Page Options"
+msgstr ""
+
+#: ../functions/metaboxes.php:38
+msgid "Blog Options - these options will affect the Blog Page Templates"
+msgstr ""
+
+#: ../functions/metaboxes.php:39
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../functions/metaboxes.php:41
+msgid "Contact Us - DEPRECATED, use Theme Options -> Contact Us instead"
+msgstr ""
+
+#: ../functions/metaboxes.php:48
+msgid "Portfolio Details"
+msgstr ""
+
+#: ../functions/metaboxes.php:52
+msgid "Client Options"
+msgstr ""
+
+#: ../functions/metaboxes.php:53
+msgid "Testimonials Options"
+msgstr ""
+
+#: ../functions/metaboxes.php:258
+msgid "Browse"
+msgstr ""
+
+#: ../functions/shortcodes.php:937
+msgid "More info"
+msgstr ""
+
+#: ../functions/shortcodes.php:1319
+msgid "days"
+msgstr ""
+
+#: ../functions/shortcodes.php:1326
+msgid "hours"
+msgstr ""
+
+#: ../functions/shortcodes.php:1333
+msgid "minutes"
+msgstr ""
+
+#: ../functions/shortcodes.php:1340
+msgid "seconds"
+msgstr ""
+
+#: ../functions/shortcodes.php:2094 ../functions/widget-social.php:39
+#: ../functions/template/social-links-footer.php:7
+#: ../functions/template/social-links.php:7
+msgid "Follow on Facebook"
+msgstr ""
+
+#: ../functions/shortcodes.php:2095 ../functions/widget-social.php:35
+#: ../functions/template/social-links-footer.php:6
+#: ../functions/template/social-links.php:6
+msgid "Follow on Twitter"
+msgstr ""
+
+#: ../functions/shortcodes.php:2096 ../functions/widget-social.php:43
+#: ../functions/template/social-links-footer.php:9
+#: ../functions/template/social-links.php:9
+msgid "Follow on Google+"
+msgstr ""
+
+#: ../functions/shortcodes.php:2097 ../functions/widget-social.php:55
+#: ../functions/template/social-links-footer.php:10
+#: ../functions/template/social-links.php:10
+msgid "Follow on LinkedIn"
+msgstr ""
+
+#: ../functions/shortcodes.php:2098 ../functions/widget-social.php:47
+#: ../functions/template/social-links-footer.php:8
+#: ../functions/template/social-links.php:8
+msgid "Follow on Instagram"
+msgstr ""
+
+#: ../functions/shortcodes.php:2099 ../functions/widget-social.php:59
+#: ../functions/template/social-links-footer.php:11
+#: ../functions/template/social-links.php:11
+msgid "Follow on Pinterest"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:20 ../functions/theme-posttypes.php:21
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:31
+msgid "Categories"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:37 ../functions/theme-posttypes.php:38
+msgid "Clients"
+msgstr ""
+
+#: ../functions/theme-posttypes.php:51 ../functions/theme-posttypes.php:52
+msgid "Testimonials"
+msgstr ""
+
+#: ../functions/vc_class.php:9
+msgid "Style1"
+msgstr ""
+
+#: ../functions/vc_class.php:9
+msgid "Style2"
+msgstr ""
+
+#: ../functions/vc_class.php:11 ../functions/vc_class.php:13
+#: ../functions/metaboxes/blog_options.php:61
+#: ../functions/metaboxes/blog_options.php:69
+#: ../functions/metaboxes/blog_options.php:77
+#: ../functions/metaboxes/blog_options.php:120
+#: ../functions/metaboxes/footer_options.php:16
+#: ../functions/metaboxes/header.php:23 ../functions/metaboxes/header.php:29
+#: ../functions/metaboxes/page_title.php:28
+#: ../functions/metaboxes/post_options.php:62
+#: ../functions/metaboxes/post_options.php:70
+#: ../functions/metaboxes/post_options.php:78
+msgid "Default"
+msgstr ""
+
+#: ../functions/vc_class.php:11 ../functions/vc_class.php:13
+msgid "Green"
+msgstr ""
+
+#: ../functions/vc_class.php:11 ../functions/vc_class.php:13
+msgid "Blue"
+msgstr ""
+
+#: ../functions/vc_class.php:11 ../functions/vc_class.php:13
+msgid "Red"
+msgstr ""
+
+#: ../functions/vc_class.php:11 ../functions/vc_class.php:13
+msgid "Yellow"
+msgstr ""
+
+#: ../functions/vc_class.php:11 ../functions/vc_class.php:13
+msgid "Purple"
+msgstr ""
+
+#: ../functions/vc_class.php:11 ../functions/vc_class.php:13
+msgid "Grey"
+msgstr ""
+
+#: ../functions/vc_class.php:11 ../functions/vc_class.php:13
+msgid "Black"
+msgstr ""
+
+#: ../functions/vc_class.php:13
+msgid "Custom"
+msgstr ""
+
+#: ../functions/vc_class.php:15 ../functions/widget-flickr.php:116
+msgid "Small"
+msgstr ""
+
+#: ../functions/vc_class.php:15 ../functions/widget-flickr.php:118
+msgid "Large"
+msgstr ""
+
+#: ../functions/vc_class.php:17 ../functions/metaboxes/blog_options.php:61
+#: ../functions/metaboxes/blog_options.php:112
+#: ../functions/metaboxes/page_title.php:36
+#: ../functions/metaboxes/post_options.php:62
+msgid "Center"
+msgstr ""
+
+#: ../functions/vc_class.php:17 ../functions/metaboxes/blog_options.php:61
+#: ../functions/metaboxes/blog_options.php:77
+#: ../functions/metaboxes/blog_options.php:112
+#: ../functions/metaboxes/page_options.php:20
+#: ../functions/metaboxes/page_title.php:36
+#: ../functions/metaboxes/post_options.php:35
+#: ../functions/metaboxes/post_options.php:62
+msgid "Left"
+msgstr ""
+
+#: ../functions/vc_class.php:17 ../functions/metaboxes/blog_options.php:77
+#: ../functions/metaboxes/page_options.php:20
+#: ../functions/metaboxes/page_title.php:36
+#: ../functions/metaboxes/post_options.php:35
+msgid "Right"
+msgstr ""
+
+#: ../functions/vc_class.php:20
+msgid "Same window"
+msgstr ""
+
+#: ../functions/vc_class.php:21
+msgid "New window"
+msgstr ""
+
+#: ../functions/widget-about.php:13
+msgid "Create a simple About Me widget"
+msgstr ""
+
+#: ../functions/widget-about.php:17
+msgid "About Me"
+msgstr ""
+
+#: ../functions/widget-about.php:92 ../functions/widget-blogposts.php:142
+#: ../functions/widget-contact.php:71 ../functions/widget-flickr.php:98
+#: ../functions/widget-recentportfolios.php:140
+#: ../functions/widget-social.php:124 ../functions/widget-tweets.php:163
+#: ../functions/widget-vimeo.php:127 ../functions/widget-youtube.php:127
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widget-about.php:96
+msgid "Image path URL:"
+msgstr ""
+
+#: ../functions/widget-about.php:98
+msgid ""
+"You can find the Image path URL by going to Media Library and clicking on "
+"the image you want to use. In the new window, grab the image path from the "
+"URL field."
+msgstr ""
+
+#: ../functions/widget-about.php:109
+msgid "Image Link"
+msgstr ""
+
+#: ../functions/widget-about.php:120
+msgid "Heading Text:"
+msgstr ""
+
+#: ../functions/widget-about.php:124
+msgid "Description:"
+msgstr ""
+
+#: ../functions/widget-blogposts.php:35
+msgid "A widget that displays your latest posts with a short excerpt."
+msgstr ""
+
+#: ../functions/widget-blogposts.php:41
+msgid "Custom Recent Posts Widget"
+msgstr ""
+
+#: ../functions/widget-blogposts.php:133
+msgid "Take a look behind the scenes."
+msgstr ""
+
+#: ../functions/widget-blogposts.php:148
+#: ../functions/widget-recentportfolios.php:152
+msgid "Amount to show:"
+msgstr ""
+
+#: ../functions/widget-contact.php:13
+msgid "Easily add yout contact info"
+msgstr ""
+
+#: ../functions/widget-contact.php:17
+msgid "Contact us widget"
+msgstr ""
+
+#: ../functions/widget-contact.php:39 ../functions/widget-contact.php:79
+msgid "Phone:"
+msgstr ""
+
+#: ../functions/widget-contact.php:39 ../functions/widget-contact.php:83
+msgid "Fax:"
+msgstr ""
+
+#: ../functions/widget-contact.php:43 ../functions/widget-contact.php:87
+msgid "Email:"
+msgstr ""
+
+#: ../functions/widget-contact.php:44
+msgid "Web:"
+msgstr ""
+
+#: ../functions/widget-contact.php:75
+msgid "Address:"
+msgstr ""
+
+#: ../functions/widget-contact.php:91
+msgid "Website URL:"
+msgstr ""
+
+#: ../functions/widget-flickr.php:13
+msgid "The most recent photos from flickr."
+msgstr ""
+
+#: ../functions/widget-flickr.php:17
+msgid "Creativo Flickr"
+msgstr ""
+
+#: ../functions/widget-flickr.php:103
+msgid "Screen name:"
+msgstr ""
+
+#: ../functions/widget-flickr.php:109
+msgid "Number of photos to show:"
+msgstr ""
+
+#: ../functions/widget-flickr.php:114
+msgid "Image Size:"
+msgstr ""
+
+#: ../functions/widget-flickr.php:117
+msgid "Medium"
+msgstr ""
+
+#: ../functions/widget-instagram.php:38
+msgid "Instagram Widget"
+msgstr ""
+
+#: ../functions/widget-instagram.php:114
+msgid "Instagram"
+msgstr ""
+
+#: ../functions/widget-instagram.php:114
+msgid "Follow Me!"
+msgstr ""
+
+#: ../functions/widget-instagram.php:216
+msgid "Instagram Image"
+msgstr ""
+
+#: ../functions/widget-recentportfolios.php:37
+msgid "A widget that displays your recent portfolios."
+msgstr ""
+
+#: ../functions/widget-recentportfolios.php:48
+msgid "Custom Recent Portfolios Widget"
+msgstr ""
+
+#: ../functions/widget-recentportfolios.php:146
+#: ../functions/widget-vimeo.php:140 ../functions/widget-youtube.php:140
+msgid "Short Description:"
+msgstr ""
+
+#: ../functions/widget-social.php:13
+msgid "Add your social links "
+msgstr ""
+
+#: ../functions/widget-social.php:17
+msgid "Social Links"
+msgstr ""
+
+#: ../functions/widget-social.php:51
+#: ../functions/template/social-links-footer.php:12
+#: ../functions/template/social-links.php:12
+msgid "Follow on Flickr"
+msgstr ""
+
+#: ../functions/widget-social.php:63
+#: ../functions/template/social-links-footer.php:16
+#: ../functions/template/social-links.php:16
+msgid "Follow on Dribbble"
+msgstr ""
+
+#: ../functions/widget-social.php:67
+#: ../functions/template/social-links-footer.php:15
+#: ../functions/template/social-links.php:15
+msgid "Follow on Behance"
+msgstr ""
+
+#: ../functions/widget-social.php:71
+msgid "Follow on Youtube"
+msgstr ""
+
+#: ../functions/widget-social.php:75
+msgid "Follow on Soundcloud"
+msgstr ""
+
+#: ../functions/widget-social.php:79
+#: ../functions/template/social-links-footer.php:13
+#: ../functions/template/social-links.php:13
+msgid "Follow on Tumblr"
+msgstr ""
+
+#: ../functions/widget-social.php:83
+msgid "Follow on Stumbleupon"
+msgstr ""
+
+#: ../functions/widget-social.php:87
+#: ../functions/template/social-links-footer.php:17
+#: ../functions/template/social-links-footer.php:18
+#: ../functions/template/social-links.php:17
+#: ../functions/template/social-links.php:18
+msgid "Follow on Vimeo"
+msgstr ""
+
+#: ../functions/widget-social.php:128
+msgid "Facebook Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:132
+msgid "Twitter Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:137
+msgid "LinkedIn Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:141
+msgid "Flickr Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:145
+msgid "Tumblr Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:149
+msgid "Google+ Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:153
+msgid "Youtube Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:158
+msgid "Vimeo Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:163
+msgid "Dribbble Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:168
+msgid "Pinterest Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:173
+msgid "Instagram Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:178
+msgid "Behance Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:183
+msgid "SoundCloud Link:"
+msgstr ""
+
+#: ../functions/widget-social.php:188
+msgid "StumbleUpon Link:"
+msgstr ""
+
+#: ../functions/widget-tabs.php:13
+msgid "Popular posts and recent posts."
+msgstr ""
+
+#: ../functions/widget-tabs.php:17
+msgid "Popular / Recent Posts Tabs"
+msgstr ""
+
+#: ../functions/widget-tabs.php:42
+msgid "Popular"
+msgstr ""
+
+#: ../functions/widget-tabs.php:45
+msgid "Recent"
+msgstr ""
+
+#: ../functions/widget-tabs.php:48
+msgid "Comments"
+msgstr ""
+
+#: ../functions/widget-tabs.php:172
+msgid "Number of popular posts:"
+msgstr ""
+
+#: ../functions/widget-tabs.php:176
+msgid "Number of recent posts:"
+msgstr ""
+
+#: ../functions/widget-tabs.php:180
+msgid "Number of comments:"
+msgstr ""
+
+#: ../functions/widget-tabs.php:185
+msgid "Show popular posts"
+msgstr ""
+
+#: ../functions/widget-tabs.php:189
+msgid "Show recent posts"
+msgstr ""
+
+#: ../functions/widget-tabs.php:193
+msgid "Show comments"
+msgstr ""
+
+#: ../functions/widget-tweets.php:16
+msgid "Creativo Twitter Feed"
+msgstr ""
+
+#: ../functions/widget-tweets.php:94
+msgid "Follow on Twitter &rarr;"
+msgstr ""
+
+#: ../functions/widget-tweets.php:158
+msgid "Recent Tweets"
+msgstr ""
+
+#: ../functions/widget-tweets.php:161
+msgid "Find or Create your Twitter App"
+msgstr ""
+
+#: ../functions/widget-tweets.php:168
+msgid "Consumer Key:"
+msgstr ""
+
+#: ../functions/widget-tweets.php:173
+msgid "Consumer Secret:"
+msgstr ""
+
+#: ../functions/widget-tweets.php:178
+msgid "Access Token:"
+msgstr ""
+
+#: ../functions/widget-tweets.php:183
+msgid "Access Token Secret:"
+msgstr ""
+
+#: ../functions/widget-tweets.php:188
+msgid "Twitter ID:"
+msgstr ""
+
+#: ../functions/widget-tweets.php:192
+msgid "Number of Tweets:"
+msgstr ""
+
+#: ../functions/widget-vimeo.php:36
+msgid "A widget that displays your favorite Vimeo Video. "
+msgstr ""
+
+#: ../functions/widget-vimeo.php:47
+msgid "Custom Vimeo Video Widget"
+msgstr ""
+
+#: ../functions/widget-vimeo.php:133
+msgid "Vimeo ID:"
+msgstr ""
+
+#: ../functions/widget-youtube.php:36
+msgid "A widget that displays your favorite YouTube Video."
+msgstr ""
+
+#: ../functions/widget-youtube.php:47
+msgid "Custom Youtube Video Widget"
+msgstr ""
+
+#: ../functions/widget-youtube.php:133
+msgid "Youtube ID:"
+msgstr ""
+
+#: ../functions/actions/header.php:291 ../functions/actions/header.php:326
+#: ../functions/template/search-box.php:4
+msgid "Type &amp; Hit Enter.."
+msgstr ""
+
+#: ../functions/actions/header.php:346
+msgid "Menu"
+msgstr ""
+
+#: ../functions/actions/header.php:390
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../functions/actions/header.php:403
+msgid "Posts filed under: "
+msgstr ""
+
+#: ../functions/actions/header.php:427
+msgid "404 Error "
+msgstr ""
+
+#: ../functions/actions/header.php:445
+msgid "Posts tagged with: "
+msgstr ""
+
+#: ../functions/actions/header.php:470
+msgid "Projects filed under: "
+msgstr ""
+
+#: ../functions/actions/header.php:496
+msgid "All posts by: "
+msgstr ""
+
+#: ../functions/actions/header.php:519
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../functions/megamenu/mega-menu.php:42
+msgid ""
+"Your server is running Suhosin, and your current maxvars settings may limit "
+"the number of menu items you can save."
+msgstr ""
+
+#: ../functions/megamenu/mega-menu.php:57
+msgid "Menu Item Limit Warning"
+msgstr ""
+
+#: ../functions/megamenu/mega-menu.php:70
+msgid "Menu Item Post variable count on last save"
+msgstr ""
+
+#: ../functions/megamenu/mega-menu.php:74
+msgid "Approximate remaining menu items"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:218
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:222
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:263
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:272
+msgid "URL"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:279
+msgid "Navigation Label"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:285
+msgid "Title Attribute"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:292
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:297
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:303
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:309
+msgid "Description"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:311
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:318
+msgid "Menu Item Icon"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:321
+msgid "<a target='_blank' href='"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:327
+msgid "CSS Button Classes "
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:341
+msgid "Make this Item Mega Menu?"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:347
+msgid "Mega Menu Widget Area"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:349
+msgid "Select Widget Area"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:360
+msgid "Set Background Image"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:371
+msgid "Mega Menu Container Styles"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:373
+msgid ""
+"This option will allow you add custom styles (background position, "
+"background repeat,..) to your mega menu main container."
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:379
+msgid "Move"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:380
+msgid "Up one"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:381
+msgid "Down one"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:384
+msgid "To the top"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:391
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:404
+#: ../functions/plugin/multiple_sidebars.php:226
+msgid "Remove"
+msgstr ""
+
+#: ../functions/megamenu/wp-nav-custom-walker.php:405
+#: ../woocommerce/myaccount/my-orders.php:92
+msgid "Cancel"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:5
+msgid "Posts Count"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:11
+msgid "Force 100% Width"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:12
+#: ../functions/metaboxes/blog_options.php:85
+#: ../functions/metaboxes/custom_style.php:8
+#: ../functions/metaboxes/footer_options.php:5
+#: ../functions/metaboxes/footer_options.php:11
+#: ../functions/metaboxes/header.php:5 ../functions/metaboxes/header.php:29
+#: ../functions/metaboxes/header.php:35
+#: ../functions/metaboxes/page_options.php:5
+#: ../functions/metaboxes/page_options.php:13
+#: ../functions/metaboxes/page_title.php:6
+#: ../functions/metaboxes/page_title.php:13
+#: ../functions/metaboxes/page_title.php:20
+#: ../functions/metaboxes/page_title.php:28
+#: ../functions/metaboxes/page_title.php:110
+#: ../functions/metaboxes/page_title.php:117
+#: ../functions/metaboxes/portfolio_general.php:5
+#: ../functions/metaboxes/post_options.php:5
+#: ../functions/metaboxes/post_options.php:21
+#: ../functions/metaboxes/post_options.php:28
+msgid "No"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:12
+#: ../functions/metaboxes/blog_options.php:85
+#: ../functions/metaboxes/custom_style.php:8
+#: ../functions/metaboxes/footer_options.php:5
+#: ../functions/metaboxes/footer_options.php:11
+#: ../functions/metaboxes/header.php:5 ../functions/metaboxes/header.php:29
+#: ../functions/metaboxes/header.php:35
+#: ../functions/metaboxes/page_options.php:5
+#: ../functions/metaboxes/page_options.php:13
+#: ../functions/metaboxes/page_title.php:6
+#: ../functions/metaboxes/page_title.php:13
+#: ../functions/metaboxes/page_title.php:20
+#: ../functions/metaboxes/page_title.php:28
+#: ../functions/metaboxes/page_title.php:110
+#: ../functions/metaboxes/page_title.php:117
+#: ../functions/metaboxes/portfolio_general.php:5
+#: ../functions/metaboxes/post_options.php:5
+#: ../functions/metaboxes/post_options.php:21
+#: ../functions/metaboxes/post_options.php:28
+msgid "Yes"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:13
+msgid ""
+"Select Yes to force the page width to be 100%. Only works when the Blog "
+"Style Grid and Blog Style Masonry template is being used."
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:18
+msgid "Grid Columns"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:19
+#: ../functions/metaboxes/post_options.php:78
+msgid "2 Columns"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:19
+#: ../functions/metaboxes/post_options.php:78
+msgid "3 Columns"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:19
+msgid "4 Columns"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:19
+msgid "5 Columns"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:20
+msgid ""
+"Select the number of Grid Columns to use. Only works when the Blog Style "
+"Grid and Blog Style Masonry template is being used."
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:26
+#: ../functions/metaboxes/portfolio_options.php:12
+msgid "All categories"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:32
+msgid "Posts Category"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:34
+msgid "Choose the category you want to display posts from."
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:41
+#: ../functions/metaboxes/post_options.php:42
+msgid "Post Title Font Size"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:47
+#: ../functions/metaboxes/post_options.php:48
+msgid "Post Title Line Height"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:53
+#: ../functions/metaboxes/post_options.php:54
+msgid "Post Title Font Weight"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:60
+#: ../functions/metaboxes/post_options.php:61
+msgid "Post Title and Meta Align"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:62
+#: ../functions/metaboxes/post_options.php:63
+msgid ""
+"Select the alignment of the Post elements. Leave Default to inherit the "
+"option set under Theme Options -> Blog -> Post Title and Meta Align"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:68
+#: ../functions/metaboxes/post_options.php:69
+msgid "Post Title and Meta Positioning"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:69
+#: ../functions/metaboxes/blog_options.php:120
+#: ../functions/metaboxes/post_options.php:70
+msgid "Above Featured Images"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:69
+#: ../functions/metaboxes/blog_options.php:120
+#: ../functions/metaboxes/post_options.php:70
+msgid "Below Featured Images"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:70
+#: ../functions/metaboxes/post_options.php:71
+msgid ""
+"Select the Post Title and Meta positioning. Leave Default to inherit the "
+"setting set under Appearance -> Theme Options -> Blog -> Post Title and Meta "
+"Positioning"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:76
+msgid "Small Images Position"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:78
+msgid ""
+"Select the position of the Small Images. This option will only work if the "
+"Blog Style Small Images page template is selected"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:84
+msgid "Make First Post Featured"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:86
+msgid ""
+"Enable this option to force only the First Post to be displayed in Full "
+"Width layout. This option will work for: Small Images and Grid Images page "
+"templates."
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:92
+msgid "Featured Post Title Font Size"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:98
+msgid "Featured Post Title Line Height"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:104
+msgid "Featured Post Title Font Weight"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:111
+msgid "Featured Post Elements Align"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:113
+msgid "Select the alignment of the Featured Post elements"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:119
+msgid "Featured Post Title and Meta Positioning"
+msgstr ""
+
+#: ../functions/metaboxes/blog_options.php:121
+msgid ""
+"Select the Post Title and Meta positioning. Leave Default to inherit the "
+"setting set under Appearance -> Theme Options -> Blog -> Post Title and Meta "
+"Style"
+msgstr ""
+
+#: ../functions/metaboxes/clients.php:4
+msgid "Client Link"
+msgstr ""
+
+#: ../functions/metaboxes/clients.php:11
+msgid "Link Target"
+msgstr ""
+
+#: ../functions/metaboxes/clients.php:12
+#: ../functions/metaboxes/portfolio_general.php:25
+msgid "Same Window"
+msgstr ""
+
+#: ../functions/metaboxes/clients.php:12
+#: ../functions/metaboxes/portfolio_general.php:25
+msgid "New Window"
+msgstr ""
+
+#: ../functions/metaboxes/contact_info.php:4
+msgid "Email Address"
+msgstr ""
+
+#: ../functions/metaboxes/contact_info.php:10
+msgid "Google Maps Address"
+msgstr ""
+
+#: ../functions/metaboxes/contact_info.php:16
+msgid "Zoom Level"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:4
+msgid "Custom Background Image"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:4
+msgid "This will overide the actual background used in the Theme Option Area"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:7
+#: ../functions/metaboxes/page_title.php:109
+msgid "Enable FullScreen Background Image"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:13
+msgid "Custom Background Color"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:13
+msgid ""
+"This will overide the actual background color used in the Theme Option Area"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:17
+msgid "Custom Background Repeat"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:19
+msgid "No Repeat"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:20
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:21
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:22
+msgid "Repeat All"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:29
+msgid "Custom Background Position"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:30
+msgid "Top Left"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:31
+msgid "Top Center"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:32
+msgid "Top Right"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:33
+msgid "Middle Left"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:34
+msgid "Middle Center"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:35
+msgid "Middle Right"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:36
+msgid "Bottom Left"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:37
+msgid "Bottom Center"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:38
+msgid "Bottom Right"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:45
+msgid "Custom Background Scrolling"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:47
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:48
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../functions/metaboxes/custom_style.php:50
+msgid ""
+"Choose if you want the background to be fixed in place or scroll it normally."
+msgstr ""
+
+#: ../functions/metaboxes/footer_options.php:4
+msgid "Enable Footer"
+msgstr ""
+
+#: ../functions/metaboxes/footer_options.php:10
+msgid "Enable Footer Widgets"
+msgstr ""
+
+#: ../functions/metaboxes/footer_options.php:15
+msgid "Footer Width"
+msgstr ""
+
+#: ../functions/metaboxes/footer_options.php:16
+#: ../functions/metaboxes/header.php:11 ../functions/metaboxes/header.php:17
+#: ../functions/metaboxes/header.php:23
+msgid "Normal"
+msgstr ""
+
+#: ../functions/metaboxes/footer_options.php:16
+#: ../functions/metaboxes/header.php:23
+msgid "Expanded"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:4
+msgid "Enable Header"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:10
+msgid "Header Style"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:11 ../functions/metaboxes/header.php:17
+msgid "Default - set in Theme Options"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:11
+msgid "Modern"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:16
+msgid "Header Elements Positioning"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:17
+msgid "Centered"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:22
+msgid "Header Width"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:28
+msgid "Enable Top Bar"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:34
+msgid "Enable Transparent header"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:40
+msgid "Header Transparency"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:41
+msgid ""
+"Enter transparency in percents. E.g: 60%. Leave blank to make your header "
+"fully transparent.<br>This option will only work if you Enable Transparent "
+"header option above."
+msgstr ""
+
+#: ../functions/metaboxes/header.php:44
+msgid "Custom Logo"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:44
+msgid "Allows you to upload a custom logo for the Transparent Header. "
+msgstr ""
+
+#: ../functions/metaboxes/header.php:45
+msgid "Custom Logo Retina"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:45
+msgid ""
+"Allows you to upload a custom logo for the Transparent Header for Retina "
+"enabled devices. "
+msgstr ""
+
+#: ../functions/metaboxes/header.php:47
+msgid "Transparent Header Menu Color"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:47
+msgid ""
+"Select a custom color for the main items of the Header Menu - this will "
+"overide the Header Menu settings under Theme Options"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:60
+msgid "Header Menu"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:62
+msgid ""
+"Select the menu you want to use inside the Header. Leave Default to use the "
+"Menu you set as Menus -> Primary Menu"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:67
+msgid "Top Bar Menu"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:69
+msgid ""
+"Select the menu you want to use as the Top Bar Menu. Leave Default to use "
+"the Menu you set as Menus -> Top Menu"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:74
+msgid "One Page Navigation Menu"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:76
+msgid ""
+"Select the menu you want to use for your One Page Navigation. Leave Default "
+"to use the Menu you set as Menus -> One Page Menu"
+msgstr ""
+
+#: ../functions/metaboxes/header.php:82
+msgid ""
+"Select the menu you want to use for your Side Navigation. Leave Default to "
+"use the Menu you set as Menus -> Side Navigation Menu"
+msgstr ""
+
+#: ../functions/metaboxes/page_options.php:4
+msgid "Show All Featured Images"
+msgstr ""
+
+#: ../functions/metaboxes/page_options.php:6
+msgid "Display featured images at the beggining of the page."
+msgstr ""
+
+#: ../functions/metaboxes/page_options.php:12
+#: ../functions/metaboxes/post_options.php:27
+msgid "Enable Sidebar"
+msgstr ""
+
+#: ../functions/metaboxes/page_options.php:14
+msgid "Enable or disable the Sidebar."
+msgstr ""
+
+#: ../functions/metaboxes/page_options.php:19
+#: ../functions/metaboxes/post_options.php:34
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../functions/metaboxes/page_slider.php:4
+msgid "Slider Select"
+msgstr ""
+
+#: ../functions/metaboxes/page_slider.php:6
+#: ../functions/plugin/multiple_sidebars.php:328
+msgid "None"
+msgstr ""
+
+#: ../functions/metaboxes/page_slider.php:7
+msgid "Layer Slider"
+msgstr ""
+
+#: ../functions/metaboxes/page_slider.php:8
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../functions/metaboxes/page_slider.php:9
+msgid "Demo Slider"
+msgstr ""
+
+#: ../functions/metaboxes/page_slider.php:16
+msgid "Slider ID:"
+msgstr ""
+
+#: ../functions/metaboxes/page_slider.php:17
+msgid "Enter the id of the slider you want to use. (e.g: 1,2,3...)"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:5
+msgid "Show Page Title and Breadcumb Section"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:12
+msgid "Show Page Title"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:19
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:27
+msgid "Show Searchbox"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:35
+msgid "Elements Positioning"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:43
+msgid "Page Title Custom text"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:50
+msgid "Page Title SubHeading text"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:57
+msgid "Page Title Font Size"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:64
+msgid "Page Title SubHeading Font Size"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:70
+msgid "Breadcrumb Font Size"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:76
+msgid "Page Title Area Height"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:82
+msgid "Page Title Top Padding"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:87
+msgid "Page Title Background Color"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:87
+msgid ""
+"Select a background color for the Page Title area - this will overide the "
+"Header Menu settings under Theme Options"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:90
+msgid "Page Title & SubHeading Text Color"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:90
+msgid "Select a color for the Page Title & SubHeading"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:93
+msgid "Breadcrumbs Text Color"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:93
+msgid "Select a color for the Breadcrumbs"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:96
+msgid "Page Title Background Image"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:96
+msgid "Upload a background image for the Page Title area"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:98
+msgid "Page Title Mask Color"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:98
+msgid "Add a colored mask over the background image."
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:102
+msgid "Page Title Mask Transparency"
+msgstr ""
+
+#: ../functions/metaboxes/page_title.php:116
+msgid "Enable Parallax effect"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_details.php:11
+msgid "Project Skills"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_details.php:17
+msgid "Website Text"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_details.php:24
+msgid "Website URL"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_general.php:4
+#: ../functions/metaboxes/post_options.php:4
+msgid "Skip first Featured Image"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_general.php:11
+msgid "Width (Content Columns)"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_general.php:12
+msgid "Full Width"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_general.php:12
+msgid "Half Width"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_general.php:18
+msgid "Custom Link"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_general.php:19
+msgid ""
+"Your portfolio item can be linked to a custom page - paste the entire link "
+"above. E.g: http://rockythemes.com/<br>Leave blank for the portfolio item to "
+"link to the actual portfolio page."
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_general.php:24
+msgid "Custom Link Opens in"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_options.php:4
+msgid "Portfolio Style"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_options.php:5
+msgid "3D"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_options.php:5
+msgid "Flat"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_options.php:6
+msgid "Select the style of the Portfolio page"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_options.php:18
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../functions/metaboxes/portfolio_options.php:20
+msgid "Choose what portfolio category you want to display on this page."
+msgstr ""
+
+#: ../functions/metaboxes/post_options.php:12
+msgid "Featured Image Size"
+msgstr ""
+
+#: ../functions/metaboxes/post_options.php:13
+msgid "Full"
+msgstr ""
+
+#: ../functions/metaboxes/post_options.php:13
+msgid "Cropped version"
+msgstr ""
+
+#: ../functions/metaboxes/post_options.php:20
+msgid "Show Featured Images and Videos"
+msgstr ""
+
+#: ../functions/metaboxes/post_options.php:22
+msgid "Display featured images and videos at the beggining of the post."
+msgstr ""
+
+#: ../functions/metaboxes/post_options.php:77
+msgid "Post Content Columns"
+msgstr ""
+
+#: ../functions/metaboxes/post_options.php:79
+msgid ""
+"Optionally you can force the Post Content to use a Column Layout - your "
+"content will be split into equal columns depending on the selection above."
+msgstr ""
+
+#: ../functions/metaboxes/testimonials.php:4
+msgid "Testimonial Author Website Text"
+msgstr ""
+
+#: ../functions/metaboxes/testimonials.php:11
+msgid "Testimonial Author Website Url"
+msgstr ""
+
+#: ../functions/metaboxes/video.php:5
+msgid "Youtube Video Id"
+msgstr ""
+
+#: ../functions/metaboxes/video.php:6
+msgid ""
+"e.g: http://www.youtube.com/watch?v=XBRXA8zmJr8 - the code you should enter "
+"would be: XBRXA8zmJr8"
+msgstr ""
+
+#: ../functions/metaboxes/video.php:11
+msgid "Vimeo Video Id"
+msgstr ""
+
+#: ../functions/metaboxes/video.php:12
+msgid ""
+"e.g: http://vimeo.com/8245346 - the code you should enter would be: 8245346"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2198
+msgid "Required"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2201
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2217
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2220
+msgid "External Source"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2223
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2240
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2244
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2246
+msgid "Active"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2252
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2255
+msgid "Requires Update"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2258
+msgid "Update recommended"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2410
+msgid "Installed version:"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2418
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2430
+msgid "Available version:"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2453
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2467
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2468
+msgid "Source"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2469
+msgid "Type"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2473
+msgid "Version"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2474
+#: ../woocommerce/myaccount/my-orders.php:27
+msgid "Status"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2634
+#: ../radium-demo-install/init.php:200
+msgid "Install"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2640
+msgid "Update"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2643
+msgid "Activate"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2674
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2676
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2712
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:2714
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:3059
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:3393
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:3395
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:3396
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:3400
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:3401
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:3402
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:3403
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:3406
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:3408
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/plugin/class-tgm-plugin-activation.php:3409
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:80
+#: ../functions/plugin/multiple_sidebars.php:299
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:197
+msgid "Sidebars"
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:197
+msgid "Sidebars Page"
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:220
+msgid "Sidebars Settings"
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:224
+msgid "Sidebar Name"
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:225
+msgid "CSS class"
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:239
+msgid "Remove this sidebar"
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:239
+msgid "remove"
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:247
+msgid "No Sidebars defined"
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:254
+msgid "+ Add New Sidebar"
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:304
+msgid ""
+"Please select the sidebar you would like to display on this page. "
+"<strong>Note:</strong> You must first create the sidebar under Appearance > "
+"Sidebars."
+msgstr ""
+
+#: ../functions/plugin/multiple_sidebars.php:313
+msgid "WP Default Sidebar"
+msgstr ""
+
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:3
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:6
+msgid "Test custom checkbox"
+msgstr ""
+
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:5
+msgid "Content"
+msgstr ""
+
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:11
+msgid "Checked1"
+msgstr ""
+
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:15
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:26
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:38
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:50
+msgid "Test1"
+msgstr ""
+
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:16
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:27
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:39
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:51
+msgid "Test2"
+msgstr ""
+
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:17
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:28
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:40
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:52
+msgid "Test3"
+msgstr ""
+
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:23
+msgid "Checked2"
+msgstr ""
+
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:34
+msgid "Checked3"
+msgstr ""
+
+#: ../functions/shortcode/shortcode-vc-test-custom-checkbox-data.php:46
+msgid "Checked4"
+msgstr ""
+
+#: ../functions/template/contact-page-old.php:66
+msgid ""
+"Please check if you've filed all the fields with valid information. Thank "
+"you."
+msgstr ""
+
+#: ../functions/template/contact-page-old.php:71
+msgid "Email Successfully Sent!"
+msgstr ""
+
+#: ../functions/template/contact-page-old.php:72
+msgid "Thank you"
+msgstr ""
+
+#: ../functions/template/contact-page-old.php:72
+msgid "for using my contact form! Your email was successfully sent!"
+msgstr ""
+
+#: ../functions/template/contact-page-old.php:79
+msgid "Name (required)"
+msgstr ""
+
+#: ../functions/template/contact-page-old.php:80
+msgid "Email (required)"
+msgstr ""
+
+#: ../functions/template/contact-page-old.php:81
+msgid "Subject"
+msgstr ""
+
+#: ../functions/template/contact-page-old.php:84
+msgid "Message"
+msgstr ""
+
+#: ../functions/template/contact-page-old.php:87
+msgid "Submit Form"
+msgstr ""
+
+#: ../functions/template/footer-menu.php:14
+#: ../functions/template/top-menu.php:13
+msgid "No menu assigned!"
+msgstr ""
+
+#: ../functions/template/social-links-footer.php:14
+#: ../functions/template/social-links.php:14
+msgid "Follow on YouTube"
+msgstr ""
+
+#: ../functions/template/social-links-footer.php:19
+#: ../functions/template/social-links.php:19
+msgid "Follow on Xing"
+msgstr ""
+
+#: ../functions/template/social-links-footer.php:20
+#: ../functions/template/social-links.php:20
+msgid "Follow on SoundCloud"
+msgstr ""
+
+#: ../functions/template/social-links-footer.php:21
+#: ../functions/template/social-links.php:21
+msgid "Follow on Yelp"
+msgstr ""
+
+#: ../functions/template/social-links-footer.php:22
+#: ../functions/template/social-links.php:22
+msgid "Rss"
+msgstr ""
+
+#: ../radium-demo-install/init.php:148
+msgid ""
+"Are you sure to import dummy content? We highly encourage you to do this "
+"action in a WordPress fresh installation!"
+msgstr ""
+
+#: ../radium-demo-install/init.php:149
+msgid ""
+"Please be patient while we are importing templates. This process may take a "
+"couple of minutes."
+msgstr ""
+
+#: ../radium-demo-install/init.php:150
+msgid ""
+"Please note that some of the images & videos that you will see in page "
+"sections, sliders might be hotlinked to our server (not imported), As you "
+"are allowed to use these images on your development phase (for better visual "
+"guide) of your site and MUST be replaced with your own images/videos before "
+"its ready for production."
+msgstr ""
+
+#: ../radium-demo-install/init.php:151
+msgid "We could not complete the import. Please try again."
+msgstr ""
+
+#: ../radium-demo-install/parsers.php:42 ../radium-demo-install/parsers.php:72
+#: ../radium-demo-install/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../radium-demo-install/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../radium-demo-install/parsers.php:84 ../radium-demo-install/parsers.php:89
+#: ../radium-demo-install/parsers.php:279
+#: ../radium-demo-install/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../radium-demo-install/radium-importer.php:424
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../radium-demo-install/radium-importer.php:446
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../radium-demo-install/radium-importer.php:469
+msgid "Widget already exists"
+msgstr ""
+
+#: ../radium-demo-install/radium-importer.php:518
+msgid "Imported"
+msgstr ""
+
+#: ../radium-demo-install/radium-importer.php:521
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../radium-demo-install/radium-importer.php:527
+msgid "No Title"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:134
+#: ../radium-demo-install/wordpress-importer.php:143
+#: ../radium-demo-install/wordpress-importer.php:194
+#: ../radium-demo-install/wordpress-importer.php:198
+#: ../radium-demo-install/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:511
+#: ../radium-demo-install/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../radium-demo-install/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../tribe-events/single-event.php:32 ../tribe-events/single-event.php:78
+#, php-format
+msgid "%s Navigation"
+msgstr ""
+
+#: ../tribe-events/list/nav.php:19
+#, php-format
+msgid "%s List Navigation"
+msgstr ""
+
+#: ../tribe-events/list/nav.php:25
+#, php-format
+msgid "<span>&laquo;</span> Previous %s"
+msgstr ""
+
+#: ../tribe-events/list/nav.php:32
+#, php-format
+msgid "Next %s <span>&raquo;</span>"
+msgstr ""
+
+#: ../tribe-events/modules/meta/details.php:119
+#, php-format
+msgid "%s Tags:"
+msgstr ""
+
+#: ../tribe-events/widgets/list-widget.php:65
+#, php-format
+msgid "View All %s"
+msgstr ""
+
+#: ../tribe-events/widgets/list-widget.php:71
+#, php-format
+msgid "There are no upcoming %s at this time."
+msgstr ""
+
+#: ../woocommerce/content-product.php:52
+msgid "<i class=\"icon-block\"></i>Out of Stock"
+msgstr ""
+
+#: ../woocommerce/content-product.php:62
+msgid "Select options"
+msgstr ""
+
+#: ../woocommerce/content-product.php:67
+msgid "View options"
+msgstr ""
+
+#: ../woocommerce/content-product.php:72
+msgid "Read More"
+msgstr ""
+
+#: ../woocommerce/content-product.php:77
+msgid "Add to cart"
+msgstr ""
+
+#: ../woocommerce/content-product.php:101
+msgid "Out of Stock"
+msgstr ""
+
+#: ../woocommerce/content-product.php:105
+#: ../woocommerce/single-product/product-image.php:18
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/content-product.php:108
+msgid "Free"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:49
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:51
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:78 ../woocommerce/cart/cart.php:29
+#: ../woocommerce/myaccount/my-orders.php:28
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:25
+msgid "Item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:26 ../woocommerce/checkout/form-pay.php:28
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:103
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:119
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:119
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:159
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:18
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:29
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:30
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:68
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:16
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:20
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:26
+#: ../woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:28
+msgid "My Account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:34
+#: ../woocommerce/checkout/thankyou.php:65
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:38
+msgid "Order:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:42
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:46
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:51
+msgid "Payment method:"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:31
+msgid "First name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:35
+msgid "Last name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:41
+#: ../woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:46
+msgid "Password Change"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:49
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:53
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:57
+msgid "Confirm New Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:16
+#: ../woocommerce/myaccount/my-address.php:19
+#: ../woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:16
+#: ../woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:44
+msgid "Save Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:27
+#: ../woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:38
+#: ../woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:65
+#: ../woocommerce/myaccount/form-login.php:102
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:48
+msgid "Reset Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:48
+msgid "Save"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\" class=\"woocommerce_orders"
+"\">edit your password and account details</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:42
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:23
+msgid "Order Updates"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:29
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/single-product/product-image.php:43
+msgid "Placeholder"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:39
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:55
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:65
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#~ msgid "Input integer value for label. If empty \"Pie value\" will be used."
+#~ msgstr "Lorem Ipsum, something something!"
